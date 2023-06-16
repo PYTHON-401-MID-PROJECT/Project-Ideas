@@ -2,7 +2,7 @@
 
 The "Project-Ideas" repository is a collaborative space where team members can contribute and share their ideas for the mid project. The repository will primarily consist of a README file that contains the project ideas proposed by each team member. 
 
-In order to present their ideas, each team member is required to create a branch using the following naming convention: <your-name_the-project-title>. After creating the branch, the team member should push the README file, including their idea, to this repository.
+In order to present their ideas, each team member is required to create a branch using the following naming convention: **<your-name_the-project-title>**. After creating the branch, the team member should push the README file, including their idea, to this repository.
 
 The README file should follow the suggested structure, which provides a framework for presenting the project ideas effectively. The structure may include sections such as:
 
