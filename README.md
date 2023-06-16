@@ -20,13 +20,20 @@ By utilizing this repository, team members can easily collaborate, review, and d
 1. Project Title:
    - Provide a clear title for your project.
 
-2. Project Description:
+2. Project Overview:
    - Give a brief overview of your project idea , explaining its purpose and main features.
 
-3. libraries:
-   - Include any requirements(equipments ex:camira,mic) or api or libraries that you maybe will use it in your project
-
-8. problem domain:
+3. problem domain:
    - Acknowledge any individuals, libraries, or resources that have contributed to your project.
 
+4. Technologies Used:
+   - Include any requirements(equipments ex:camira,mic) or api or libraries that you maybe will use it in your project
+
+5. Features:
+   - write the distinct functionalities or capabilities of a software system. They represent specific tasks or operations that the software can perform to fulfill user needs or requirements. Features are the building blocks of a software product and define its functionality.
+  
+6. How to use the app:
+   - clarify will it be GUI desktop app or a web app, how the user will interact with it.
+
 the structure provided above is a general guideline, and you can customize it based on your project's specific requirements and the information you want to convey to the team.
+ 
