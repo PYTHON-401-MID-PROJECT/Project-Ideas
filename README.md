@@ -5,11 +5,13 @@ The "Project-Ideas" repository is a collaborative space where team members can c
 In order to present their ideas, each team member is required to create a branch using the following naming convention: <your-name_the-project-title>. After creating the branch, the team member should push the README file, including their idea, to this repository.
 
 The README file should follow the suggested structure, which provides a framework for presenting the project ideas effectively. The structure may include sections such as:
-1. Project Title: A concise title that captures the essence of the proposed idea.
-2. Problem Statement: A clear and concise description of the problem the project aims to solve or address.
-3. Solution Approach: An outline of the approach or methodology that will be used to tackle the problem.
-4. Expected Deliverables: A list of the expected outcomes or deliverables of the project.
-5. Resources Required: A description of the resources, tools, or technologies that will be needed to execute the project.
+
+1. Project Title:
+2. Project Overview:
+3. problem domain:
+4. Technologies Used:
+5. Features:
+6. How to use the app:
 
 
 By utilizing this repository, team members can easily collaborate, review, and discuss the proposed ideas. It provides a centralized location for storing and accessing all the project ideas, allowing for efficient decision-making and selection of the most promising concepts for further development.
@@ -24,7 +26,7 @@ By utilizing this repository, team members can easily collaborate, review, and d
    - Give a brief overview of your project idea , explaining its purpose and main features.
 
 3. problem domain:
-   - Acknowledge any individuals, libraries, or resources that have contributed to your project.
+   -  the specific area or subject matter that a software system is designed to address. It encompasses the knowledge, concepts, rules, and constraints associated with the problem being solved. Understanding the problem domain is crucial for creating effective software solutions that meet the needs of users and address the challenges of the problem at hand.
 
 4. Technologies Used:
    - Include any requirements(equipments ex:camira,mic) or api or libraries that you maybe will use it in your project
@@ -33,7 +35,7 @@ By utilizing this repository, team members can easily collaborate, review, and d
    - write the distinct functionalities or capabilities of a software system. They represent specific tasks or operations that the software can perform to fulfill user needs or requirements. Features are the building blocks of a software product and define its functionality.
   
 6. How to use the app:
-   - clarify will it be GUI desktop app or a web app, how the user will interact with it.
+   - clarify will it be GUI desktop app or a web app, how the user will interact with it, by manual typing or voice commands etc... .
 
 the structure provided above is a general guideline, and you can customize it based on your project's specific requirements and the information you want to convey to the team.
  
