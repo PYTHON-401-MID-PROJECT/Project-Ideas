@@ -30,6 +30,8 @@ By utilizing this repository, team members can easily collaborate, review, and d
    -   What problem does your software aim to solve? 
    -   How will your software simplify the user's life? 
    -   What are the reasons for users to choose and utilize your software?
+
+
 It encompasses the knowledge, concepts, rules, and constraints associated with the problem being solved. Understanding the problem domain is crucial for creating effective software solutions that meet the needs of users and address the challenges of the problem at hand.
 
 4. Technologies Used:
