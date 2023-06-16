@@ -26,7 +26,7 @@ By utilizing this repository, team members can easily collaborate, review, and d
    - Give a brief overview of your project idea , explaining its purpose and main features.
 
 3. problem domain:
-   -  the specific area or subject matter that a software system is designed to address. It encompasses the knowledge, concepts, rules, and constraints associated with the problem being solved. Understanding the problem domain is crucial for creating effective software solutions that meet the needs of users and address the challenges of the problem at hand.
+   -  the specific area or subject matter that a software system is designed to address in other words What problem does your software aim to solve?. It encompasses the knowledge, concepts, rules, and constraints associated with the problem being solved. Understanding the problem domain is crucial for creating effective software solutions that meet the needs of users and address the challenges of the problem at hand.
 
 4. Technologies Used:
    - Include any requirements(equipments ex:camira,mic) or api or libraries that you maybe will use it in your project
