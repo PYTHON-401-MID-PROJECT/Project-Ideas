@@ -16,7 +16,9 @@ JoEasyGov aims to enhance citizen experience, reduce bureaucracy, and promote ef
 
 # Problem Domain:
 
-JoEasyGov aims to address the challenges and complexities individuals face when dealing with government transactions in Jordan. The software seeks to solve the following problems:
+JoEasyGov aims to address the challenges and complexities individuals face when dealing with government transactions in Jordan.
+
+### The software seeks to solve the following problems:
 
 1. Complex Procedures: Government transactions often involve multiple steps, paperwork, and specific requirements. Navigating through these processes can be confusing and time-consuming for individuals, leading to frustration and delays.
 
@@ -24,7 +26,7 @@ JoEasyGov aims to address the challenges and complexities individuals face when 
 
 3. Limited Accessibility: Traditional government offices typically operate during fixed working hours, which can be inconvenient for individuals with busy schedules or those living in remote areas. Accessing services often requires physical visits, causing additional time and effort.
 
-JoEasyGov aims to simplify the user's life in the following ways:
+### JoEasyGov aims to simplify the user's life in the following ways:
 
 1. Streamlined Processes: By providing step-by-step guidance and real-time updates, JoEasyGov simplifies government transactions. Users can easily understand the required documents, procedures, and timelines, reducing confusion and saving time.
 
@@ -34,7 +36,7 @@ JoEasyGov aims to simplify the user's life in the following ways:
 
 4. User-Friendly Interface: JoEasyGov's chat-based interface enables users to interact naturally and comfortably. The conversational AI technology makes it easy to ask questions, seek guidance, and receive personalized assistance throughout the transaction process.
 
-The reasons for users to choose and utilize JoEasyGov include:
+### The reasons for users to choose and utilize JoEasyGov include:
 
 1. Efficiency: JoEasyGov streamlines government transactions, making the process quicker and more efficient. Users can complete tasks with fewer errors and reduced delays, saving time and effort.
 
