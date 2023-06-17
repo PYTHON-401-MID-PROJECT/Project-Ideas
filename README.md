@@ -1,8 +1,8 @@
 
-### Project Title: JoEasyGov
+# Project Title: JoEasyGov
    - jordan first government transaction AI bot 
 
-### Project Overview:
+# Project Overview:
 
 
 JoEasyGov is an innovative AI-powered chatbot designed to revolutionize the way people interact with government transactions in Jordan. As the first government transaction helper AI bot in the country, JoEasyGov aims to streamline and simplify the often complex and time-consuming process of dealing with governmental procedures.
@@ -14,7 +14,7 @@ Key Features:
 
 JoEasyGov aims to enhance citizen experience, reduce bureaucracy, and promote efficiency in government transactions. By leveraging AI technology and user-centric design, the chatbot strives to simplify processes, save time, and provide an accessible and personalized platform for individuals seeking government services in Jordan.
 
-### Problem Domain:
+# Problem Domain:
 
 JoEasyGov aims to address the challenges and complexities individuals face when dealing with government transactions in Jordan. The software seeks to solve the following problems:
 
@@ -49,14 +49,14 @@ By addressing the challenges of complex procedures, limited accessibility, and l
 
 It encompasses the knowledge, concepts, rules, and constraints associated with the problem being solved. Understanding the problem domain is crucial for creating effective software solutions that meet the needs of users and address the challenges of the problem at hand.
 
-### Technologies Used:
+# Technologies Used:
    - chat GPT API
    - langcgain library
    - pypdf2 library
    - streamlit or gradio library for front end 
    - or whatsapp platform 
 
-### Features:
+# Features:
 1. User-Friendly Interface: JoEasyGov offers a seamless and intuitive chat-based interface that allows users to interact naturally and comfortably. The conversational AI technology enables users to ask questions, seek guidance, and receive step-by-step instructions.
 
 2. Transaction Guidance: JoEasyGov provides comprehensive guidance for different government transactions, ensuring users are aware of the required documents, procedures, and timelines. It offers real-time updates on the progress of applications and notifications about any additional requirements.
@@ -68,7 +68,7 @@ It encompasses the knowledge, concepts, rules, and constraints associated with t
 5. 24/7 Availability: JoEasyGov is accessible round the clock, enabling users to engage with the chatbot at their convenience. Whether it's during office hours or late at night, individuals can access the platform anytime, eliminating the need to adhere to fixed working hours.
 
   
-6. How to use the app:
+# How to use the app:
 To use the JoEasyGov app:
 
 1. Access the app through a web or mobile interface.
@@ -80,7 +80,7 @@ To use the JoEasyGov app:
 7. Ask for detailed information about government services and policies.
 8. Access the app 24/7 for convenience.
  
- ### conclusion 
+ # conclusion 
 JoEasyGov aims to simplify government transactions, provide accurate information, and offer a user-friendly experience in Jordan.
 
 
