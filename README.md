@@ -96,10 +96,10 @@ JoEasyGov aims to simplify government transactions, provide accurate information
 
 # Team Members
 
-Sakher shteyat 
-Ibraheem Areeda 
-A'sem Attallah 
-Walaa AL-Refai
-Thekra Quran
-AL-mothana Al-masri 
+## Sakher shteyat 
+## Ibraheem Areeda 
+## A'sem Attallah 
+## Walaa AL-Refai
+## Thekra Quran
+## AL-mothana Al-masri 
 
