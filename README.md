@@ -1,11 +1,14 @@
 
+
 # Project Title: JoEasyGov
    - jordan first government transaction AI bot 
+
 
 # Project Overview:
 
 
 JoEasyGov is an innovative AI-powered chatbot designed to revolutionize the way people interact with government transactions in Jordan. As the first government transaction helper AI bot in the country, JoEasyGov aims to streamline and simplify the often complex and time-consuming process of dealing with governmental procedures.
+
 
 The primary purpose of JoEasyGov is to provide a user-friendly and efficient platform that assists individuals in navigating through various government transactions. Whether it's obtaining official documents, submitting applications, or seeking information regarding specific services, JoEasyGov is here to assist.
 
@@ -14,9 +17,12 @@ Key Features:
 
 JoEasyGov aims to enhance citizen experience, reduce bureaucracy, and promote efficiency in government transactions. By leveraging AI technology and user-centric design, the chatbot strives to simplify processes, save time, and provide an accessible and personalized platform for individuals seeking government services in Jordan.
 
+
+
 # Problem Domain:
 
 JoEasyGov aims to address the challenges and complexities individuals face when dealing with government transactions in Jordan.
+
 
 ### The software seeks to solve the following problems:
 
@@ -49,7 +55,8 @@ JoEasyGov aims to address the challenges and complexities individuals face when 
 By addressing the challenges of complex procedures, limited accessibility, and lack of information, JoEasyGov aims to simplify government transactions, enhance citizen experience, and promote efficiency in Jordan's public services.
 
 
-It encompasses the knowledge, concepts, rules, and constraints associated with the problem being solved. Understanding the problem domain is crucial for creating effective software solutions that meet the needs of users and address the challenges of the problem at hand.
+   It encompasses the knowledge, concepts, rules, and constraints associated with the problem being solved. Understanding the problem domain is crucial for creating effective software solutions that meet the needs of users and address the challenges of the problem at hand.
+
 
 # Technologies Used:
    - chat GPT API
@@ -68,6 +75,7 @@ It encompasses the knowledge, concepts, rules, and constraints associated with t
 4. Document Submission: With JoEasyGov, users can conveniently submit documents and forms electronically. The chatbot guides users on the necessary formats, sizes, and other specifications, reducing the need for physical visits and paperwork.
 
 5. 24/7 Availability: JoEasyGov is accessible round the clock, enabling users to engage with the chatbot at their convenience. Whether it's during office hours or late at night, individuals can access the platform anytime, eliminating the need to adhere to fixed working hours.
+
 
   
 # How to use the app:
