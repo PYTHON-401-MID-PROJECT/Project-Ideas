@@ -94,4 +94,12 @@ To use the JoEasyGov app:
 JoEasyGov aims to simplify government transactions, provide accurate information, and offer a user-friendly experience in Jordan.
 
 
- 
+# Team Members
+
+Sakher shteyat 
+Ibraheem Areeda 
+A'sem Attallah 
+Walaa AL-Refai
+Thekra Quran
+AL-mothana Al-masri 
+
